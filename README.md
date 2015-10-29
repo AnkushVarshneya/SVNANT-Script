@@ -1,1 +1,1 @@
-# This is my README
+This is a bash script to update and compile ant project from subversion.
